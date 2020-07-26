@@ -1,0 +1,17 @@
+{"Course" :
+	{"Category" : "Software Development",
+	"Section" : "Software Testing",
+	"Target Audience" : ["Students", "Software
+	Engineers", "Junior Testers"]
+
+	"Section" : "Software Design",
+	"Target Audience" : ["Students", "Software
+	Engineers", "Junior Software Designers"]
+	}
+
+	{"Category" : "Business Analysis",
+	"Section" : "Business Analysis",
+	"Target Audience" : ["Students", "Software Engineers",
+	"Junior Business Analysts"]
+	}
+}
