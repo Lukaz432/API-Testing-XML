@@ -5,5 +5,21 @@
 		<aud>students</aud>
 		<aud>Software Engineers</aud>
 		<aud>Junior Testers</aud>
+		<aud>Senior Testers</aud>
+	</Target audience>
+
+	<Section>Software Design</Section>
+	<Target audience>
+		<aud>students</aud>
+		<aud>Software Developers</aud>
+		<aud>Junior Designers</aud>
+		<aud>Senior Designers</aud>
+	</Target audience>
+	
+	<Section>Business Analysis</Section>
+	<Target audience>
+		<aud>students</aud>
+		<aud>Junior Business Analysts</aud>
+		<aud>Senior Business Analysts</aud>
 	</Target audience>
 </Course>
